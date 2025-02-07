@@ -7,7 +7,7 @@ CREATE TABLE books (
     id INT PRIMARY KEY,
     title VARCHAR(255),
     author VARCHAR(255),
-    -- price DECIMAL(10,2)
+    price DECIMAL(10,2)
 
 );
 
